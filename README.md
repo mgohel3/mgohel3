@@ -1,33 +1,23 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     HEADER — Gemini star gradient: deep indigo → blue → purple
-     ═══════════════════════════════════════════════════════════ -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24&text=Manish%20Gohel&fontColor=FFFFFF&fontSize=60&fontAlignY=42&fontAlign=50&desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Protocol%20Architect&descColor=C5B8F8&descSize=17&descAlignY=63&animation=fadeIn" width="100%" />
 
-<!-- TYPING SVG — Gemini violet -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=9C6EEB&center=true&vCenter=true&width=750&lines=🚀+Building+ventures+that+compound;Founder+%40+Evolnity+%7C+MG+Ventures+Pvt+Ltd+🇮🇳;📡+Architecting+JAAL+Protocol+—+Mesh+for+Everyone;⚡+Django+·+React+·+Docker+·+Nginx+·+Python;🌍+Ahmedabad%2C+India+—+Building+for+the+World" alt="Typing SVG" />
+<!-- TYPING SVG — using supported font -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=3000&pause=800&color=9C6EEB&center=true&vCenter=true&width=750&lines=Building+ventures+that+compound+🚀;Founder+%40+Evolnity+%7C+MG+Ventures+Pvt+Ltd+🇮🇳;Architecting+JAAL+Protocol+—+Mesh+for+Everyone+📡;Django+·+React+·+Docker+·+Nginx+·+Python+⚡;Ahmedabad%2C+India+—+Building+for+the+World+🌍" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- ═══ SOCIAL BADGES — Gemini blue/purple shades ═══ -->
-<a href="https://evolnity.com">
-  <img src="https://img.shields.io/badge/🌐_evolnity.com-Agency-4796E3?style=for-the-badge&labelColor=0C0C1E" />
-</a>
-<a href="https://instagram.com/manishgohel_mg">
-  <img src="https://img.shields.io/badge/Instagram-@manishgohel__mg-9C6EEB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0C0C1E" />
-</a>
-<a href="mailto:manish@evolnity.com">
-  <img src="https://img.shields.io/badge/Gmail-manish@evolnity.com-7B5CF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0C1E" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/📍_Ahmedabad-India-4ECDC4?style=for-the-badge&labelColor=0C0C1E" />
-</a>
+<!-- SOCIAL BADGES -->
+[![Website](https://img.shields.io/badge/evolnity.com-Agency-4796E3?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0C1E)](https://evolnity.com)
+[![Instagram](https://img.shields.io/badge/%40manishgohel__mg-Instagram-9C6EEB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0C0C1E)](https://instagram.com/manishgohel_mg)
+[![Email](https://img.shields.io/badge/manish%40evolnity.com-Gmail-7B5CF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0C1E)](mailto:manish@evolnity.com)
+[![Location](https://img.shields.io/badge/Ahmedabad-India-4ECDC4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0C0C1E)](#)
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mgohel3&style=for-the-badge&color=9C6EEB&labelColor=0C0C1E&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/mgohel3?style=for-the-badge&color=4796E3&labelColor=0C0C1E&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/mgohel3?tab=followers)
+[![Followers](https://img.shields.io/github/followers/mgohel3?style=for-the-badge&color=4796E3&labelColor=0C0C1E&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/mgohel3?tab=followers)
 
 </div>
 
@@ -44,7 +34,7 @@
 📡 &nbsp;**Protocol Architect** — Engineering JAAL Protocol  
 🖨️ &nbsp;**SaaS Builder** — JaldiPrint · Roomlizer  
 🤖 &nbsp;**AI Integrator** — OpenAI · LangChain · n8n · MCP  
-📍 &nbsp;**Location** — Ahmedabad, Gujarat, India 🇮🇳  
+📍 &nbsp;**Location** — Ahmedabad, Gujarat, India 🇮🇳
 
 <br/>
 
@@ -65,7 +55,7 @@
 
 > *"Communication that belongs to everyone."*
 
-Sovereign mesh network.  
+Sovereign mesh network.
 **No SIM. No internet. No towers.**
 
 ```
@@ -83,7 +73,7 @@ Zone III →  Conflict  (Anonymous)
 ### 🖨️ &nbsp;JaldiPrint
 **Print-on-Demand SaaS**
 
-24-hour delivery. Multi-agent automation pipeline.  
+24-hour delivery. Multi-agent automation pipeline.
 Pan-India targeting.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -108,7 +98,7 @@ Real-time 3D rendering with AI design suggestions.
 ### 🌐 &nbsp;Evolnity
 **Web & SEO Agency**
 
-Full-service agency. Scalable client delivery.  
+Full-service agency. Scalable client delivery.
 [evolnity.com](https://evolnity.com)
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -121,7 +111,7 @@ Full-service agency. Scalable client delivery.
 ### 🏢 &nbsp;MG Ventures Pvt Ltd
 **Legal Entity & Holding Structure**
 
-Umbrella for all ventures, SaaS IPs, and agency ops.  
+Umbrella for all ventures, SaaS IPs, and agency ops.
 GST-registered. Ahmedabad, India.
 
 ![Status](https://img.shields.io/badge/Registered-Pvt_Ltd-4ECDC4?style=flat-square&labelColor=0C0C1E)
@@ -191,34 +181,27 @@ GST-registered. Ahmedabad, India.
 ## 🔭 &nbsp;Currently Building
 
 ```yaml
-# ══════════════════════════════════════════════════
-#   Active Build Pipeline — Q1-Q2 2025
-# ══════════════════════════════════════════════════
+# Active Build Pipeline
 
 JAAL_Protocol:
-  status:    "🔬 Active Development"
+  status:    "Active Development"
   milestone: "Whitepaper + ITU Standard Filing"
   impact:    "Mesh comms infrastructure for 3B+ underserved"
   entity:    "Jaal Foundation + Jaal Technologies Pvt Ltd"
 
 JaldiPrint:
-  status: "🚀 Live → Scaling"
+  status: "Live - Scaling"
   focus:  "Multi-agent order automation pipeline"
   target: "24-hour delivery, pan-India coverage"
 
 Roomlizer:
-  status: "🔨 Building MVP"
+  status: "Building MVP"
   stack:  "Babylon.js + Django + AI/ML"
   goal:   "AI-powered room visualization SaaS"
 
 Infrastructure:
   approach: "Zero-cost self-hosting"
   tools:    "Docker + Nginx + Oracle Free ARM VPS"
-  coverage: "All active products"
-
-International:
-  track:    "Dubai Free Zone → Delaware C-Corp → EU Blue Card"
-  timeline: "5-year structured migration"
 ```
 
 ---
@@ -255,7 +238,6 @@ International:
 
 <br/>
 
-<!-- ══ FOOTER WAVE — reversed Gemini gradient ══ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,24&section=footer&animation=fadeIn" width="100%" />
 
 </div>
