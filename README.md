@@ -1,32 +1,50 @@
 <div align="center">
 
-<!-- HEADER BANNER — Gemini gradient: deep navy → blue → teal -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3&text=Manish%20Gohel&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=Founder%20%E2%80%A2%20Full%E2%80%91Stack%20Developer%20%E2%80%A2%20Protocol%20Architect&descColor=A8C7FA&descSize=16&descAlignY=62&animation=fadeIn" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════
+     HEADER — Gemini star gradient: deep indigo → blue → purple
+     ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24&text=Manish%20Gohel&fontColor=FFFFFF&fontSize=60&fontAlignY=42&fontAlign=50&desc=Founder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Protocol%20Architect&descColor=C5B8F8&descSize=17&descAlignY=63&animation=fadeIn" width="100%" />
 
-<!-- TYPING ANIMATION — Gemini blue -->
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=19&duration=2800&pause=900&color=4285F4&center=true&vCenter=true&width=720&lines=Building+ventures+that+compound+%F0%9F%9A%80;Founder+%40+Evolnity+%7C+MG+Ventures+Pvt+Ltd+%F0%9F%87%AE%F0%9F%87%B3;Architecting+JAAL+Protocol+%E2%80%94+Mesh+Comms+for+Everyone;Django+%C2%B7+React+%C2%B7+Docker+%C2%B7+Nginx+%C2%B7+Python;Ahmedabad%2C+India+%E2%80%94+Building+for+the+World" alt="Typing SVG" />
+<!-- TYPING SVG — Gemini violet -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=9C6EEB&center=true&vCenter=true&width=750&lines=🚀+Building+ventures+that+compound;Founder+%40+Evolnity+%7C+MG+Ventures+Pvt+Ltd+🇮🇳;📡+Architecting+JAAL+Protocol+—+Mesh+for+Everyone;⚡+Django+·+React+·+Docker+·+Nginx+·+Python;🌍+Ahmedabad%2C+India+—+Building+for+the+World" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- BADGES — Gemini palette: blue, teal, coral, indigo -->
-[![Website](https://img.shields.io/badge/evolnity.com-Agency-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1b2a)](https://evolnity.com)
-[![Instagram](https://img.shields.io/badge/@manishgohel__mg-Instagram-EA4335?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1b2a)](https://instagram.com/manishgohel_mg)
-[![Email](https://img.shields.io/badge/manish@evolnity.com-Email-34A853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:manish@evolnity.com)
-[![India](https://img.shields.io/badge/Ahmedabad-India-FBBC04?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1b2a)](#)
+<!-- ═══ SOCIAL BADGES — Gemini blue/purple shades ═══ -->
+<a href="https://evolnity.com">
+  <img src="https://img.shields.io/badge/🌐_evolnity.com-Agency-4796E3?style=for-the-badge&labelColor=0C0C1E" />
+</a>
+<a href="https://instagram.com/manishgohel_mg">
+  <img src="https://img.shields.io/badge/Instagram-@manishgohel__mg-9C6EEB?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0C0C1E" />
+</a>
+<a href="mailto:manish@evolnity.com">
+  <img src="https://img.shields.io/badge/Gmail-manish@evolnity.com-7B5CF0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0C1E" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/📍_Ahmedabad-India-4ECDC4?style=for-the-badge&labelColor=0C0C1E" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mgohel3&style=for-the-badge&color=9C6EEB&labelColor=0C0C1E&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/mgohel3?style=for-the-badge&color=4796E3&labelColor=0C0C1E&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/mgohel3?tab=followers)
 
 </div>
 
+<br/>
+
 ---
 
-## 👤 Who I Am
+## 👤 &nbsp;Who I Am
 
-<img align="right" width="42%" src="https://github-readme-activity-graph.vercel.app/graph?username=mgohel3&bg_color=0d1b2a&color=4285F4&line=4285F4&point=A8C7FA&area=true&hide_border=true&area_color=1a3a5c" />
+<img align="right" width="43%" src="https://github-readme-activity-graph.vercel.app/graph?username=mgohel3&bg_color=0C0C1E&color=9C6EEB&line=4796E3&point=C5B8F8&area=true&hide_border=true&area_color=1A1A3E&radius=8" />
 
-🏗️ **Founder** — MG Ventures Pvt Ltd + Evolnity Agency  
-🧠 **Full-Stack Dev** — Python · Django · React · Docker  
-📡 **Protocol Architect** — Engineering JAAL Protocol  
-🖨️ **SaaS Builder** — JaldiPrint · Roomlizer  
-📍 **Based in** — Ahmedabad, Gujarat, India  
+🏗️ &nbsp;**Founder** — MG Ventures Pvt Ltd · Evolnity Agency  
+🧠 &nbsp;**Full-Stack Developer** — Python · Django · React · Docker  
+📡 &nbsp;**Protocol Architect** — Engineering JAAL Protocol  
+🖨️ &nbsp;**SaaS Builder** — JaldiPrint · Roomlizer  
+🤖 &nbsp;**AI Integrator** — OpenAI · LangChain · n8n · MCP  
+📍 &nbsp;**Location** — Ahmedabad, Gujarat, India 🇮🇳  
 
 <br/>
 
@@ -36,18 +54,19 @@
 
 ---
 
-## 🚀 Venture Portfolio
+## 🚀 &nbsp;Venture Portfolio
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 📡 JAAL Protocol
+### 📡 &nbsp;JAAL Protocol
 **Joint Autonomous Ad-hoc Link Protocol**
 
 > *"Communication that belongs to everyone."*
 
-Sovereign mesh network. No SIM. No internet. No towers.
+Sovereign mesh network.  
+**No SIM. No internet. No towers.**
 
 ```
 Zone I   →  India     (Aadhaar-Anchored)
@@ -55,48 +74,57 @@ Zone II  →  Africa    (SIM-Anchored)
 Zone III →  Conflict  (Anonymous)
 ```
 
-`ITU Filing Pending` `Whitepaper In Progress`
+![Status](https://img.shields.io/badge/ITU_Filing-Pending-9C6EEB?style=flat-square&labelColor=0C0C1E)
+![Status](https://img.shields.io/badge/Whitepaper-In_Progress-4796E3?style=flat-square&labelColor=0C0C1E)
 
 </td>
 <td width="50%" valign="top">
 
-### 🖨️ JaldiPrint
+### 🖨️ &nbsp;JaldiPrint
 **Print-on-Demand SaaS**
 
-24-hour delivery. Multi-agent automation pipeline.
+24-hour delivery. Multi-agent automation pipeline.  
+Pan-India targeting.
 
-`Django` `React` `Payment APIs` `AI Agents`
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI_Agents-9C6EEB?style=flat-square&labelColor=0C0C1E)
 
----
+<br/>
 
-### 🏠 Roomlizer
+### 🏠 &nbsp;Roomlizer
 **AI Room Visualization SaaS**
 
-Real-time 3D room rendering with AI suggestions.
+Real-time 3D rendering with AI design suggestions.
 
-`Babylon.js` `Django` `Computer Vision`
+![Babylon](https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logo=javascript&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Evolnity
-**Web & SEO Agency** — [evolnity.com](https://evolnity.com)
+### 🌐 &nbsp;Evolnity
+**Web & SEO Agency**
 
-Full-service agency. Client delivery. Scalable ops.
+Full-service agency. Scalable client delivery.  
+[evolnity.com](https://evolnity.com)
 
-`WordPress` `Django` `Tailwind` `SEO`
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4796E3?style=flat-square&labelColor=0C0C1E)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 MG Ventures Pvt Ltd
+### 🏢 &nbsp;MG Ventures Pvt Ltd
 **Legal Entity & Holding Structure**
 
-Umbrella for all ventures, SaaS IPs, and agency ops.
+Umbrella for all ventures, SaaS IPs, and agency ops.  
+GST-registered. Ahmedabad, India.
 
-`Business` `Strategy` `Execution`
+![Status](https://img.shields.io/badge/Registered-Pvt_Ltd-4ECDC4?style=flat-square&labelColor=0C0C1E)
 
 </td>
 </tr>
@@ -104,113 +132,110 @@ Umbrella for all ventures, SaaS IPs, and agency ops.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ &nbsp;Tech Stack
 
 <div align="center">
 
-<!-- Google Blue — Backend -->
-**Backend**
+### 🔹 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-4285F4?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-3367D6?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-1A73E8?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4285F4?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-3367D6?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1A73E8?style=flat-square&logo=redis&logoColor=white)
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Google Green — Frontend -->
-**Frontend**
+### 🔹 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![React](https://img.shields.io/badge/React-34A853?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E7D32?style=flat-square&logo=javascript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1E8E3E?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-34A853?style=flat-square&logo=html5&logoColor=white)
-![BabylonJS](https://img.shields.io/badge/Babylon.js-2E7D32?style=flat-square&logo=javascript&logoColor=white)
+### 🔹 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Google Red/Coral — DevOps -->
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-EA4335?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-C5221F?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-D93025?style=flat-square&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-EA4335?style=flat-square&logo=github-actions&logoColor=white)
-![VPS](https://img.shields.io/badge/Self--Hosted_VPS-C5221F?style=flat-square&logo=serverfault&logoColor=white)
-
-<!-- Google Yellow — AI -->
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-FBBC04?style=flat-square&logo=openai&logoColor=0d1b2a)
-![LangChain](https://img.shields.io/badge/LangChain-F9AB00?style=flat-square&logo=chainlink&logoColor=0d1b2a)
-![n8n](https://img.shields.io/badge/n8n-FBBC04?style=flat-square&logo=n8n&logoColor=0d1b2a)
-![MCP](https://img.shields.io/badge/MCP_Protocol-F9AB00?style=flat-square&logo=anthropic&logoColor=0d1b2a)
-
-<!-- Indigo/Blue — CMS -->
-**CMS & Platforms**
-
-![WordPress](https://img.shields.io/badge/WordPress-8AB4F8?style=flat-square&logo=wordpress&logoColor=0d1b2a)
-![Elementor](https://img.shields.io/badge/Elementor-669DF6?style=flat-square&logo=elementor&logoColor=0d1b2a)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-8AB4F8?style=flat-square&logo=woocommerce&logoColor=0d1b2a)
+### 🔹 CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
 
-<!-- Streak — Gemini navy bg, Google Blue ring -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgohel3&theme=tokyonight&hide_border=true&background=0D1B2A&ring=4285F4&fire=EA4335&currStreakLabel=4285F4&sideLabels=A8C7FA&dates=669DF6&currStreakNum=FFFFFF&sideNums=A8C7FA)](https://github.com/mgohel3)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mgohel3&theme=tokyonight&hide_border=true&background=0C0C1E&ring=9C6EEB&fire=4796E3&currStreakLabel=C5B8F8&sideLabels=9C9CCC&dates=6B6BAA&currStreakNum=FFFFFF&sideNums=C5B8F8&stroke=4796E3)](https://github.com/mgohel3)
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgohel3&bg_color=0d1b2a&color=4285F4&line=4285F4&point=EA4335&area=true&hide_border=true&area_color=1a3a5c&radius=8)](https://github.com/mgohel3)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mgohel3&bg_color=0C0C1E&color=9C6EEB&line=4796E3&point=C5B8F8&area=true&hide_border=true&area_color=1A1A3E&radius=8&custom_title=Contribution+Activity)](https://github.com/mgohel3)
 
 </div>
 
 ---
 
-## 🔭 Currently Building
+## 🔭 &nbsp;Currently Building
 
 ```yaml
+# ══════════════════════════════════════════════════
+#   Active Build Pipeline — Q1-Q2 2025
+# ══════════════════════════════════════════════════
+
 JAAL_Protocol:
-  status:    "Active Development"
+  status:    "🔬 Active Development"
   milestone: "Whitepaper + ITU Standard Filing"
-  impact:    "Mesh comms for 3B+ underserved users"
+  impact:    "Mesh comms infrastructure for 3B+ underserved"
+  entity:    "Jaal Foundation + Jaal Technologies Pvt Ltd"
 
 JaldiPrint:
-  status: "Live → Scaling"
+  status: "🚀 Live → Scaling"
   focus:  "Multi-agent order automation pipeline"
-  target: "24-hour delivery, pan-India"
+  target: "24-hour delivery, pan-India coverage"
 
 Roomlizer:
-  status: "Building MVP"
+  status: "🔨 Building MVP"
   stack:  "Babylon.js + Django + AI/ML"
-  goal:   "AI room visualization SaaS"
+  goal:   "AI-powered room visualization SaaS"
 
 Infrastructure:
-  approach: "Zero-cost self-hosting stack"
-  tools:    "Docker + Nginx + VPS"
+  approach: "Zero-cost self-hosting"
+  tools:    "Docker + Nginx + Oracle Free ARM VPS"
   coverage: "All active products"
+
+International:
+  track:    "Dubai Free Zone → Delaware C-Corp → EU Blue Card"
+  timeline: "5-year structured migration"
 ```
 
 ---
 
-## 🧩 Code Philosophy
+## 🧩 &nbsp;Engineering Philosophy
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   Lean MVP    →   Validate    →   Scale          │
-│   Own Stack   →   Zero Lock-in                  │
-│   Automate Everything   →   Compound ROI         │
-│   Build in Public   →   Document the System     │
-│                                                  │
-└──────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   Lean MVP      →    Validate    →    Scale          ║
+║   Own Stack     →    Zero Lock-in                   ║
+║   Automate All  →    Compound ROI                   ║
+║   Build Public  →    Document the System            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -219,21 +244,18 @@ Infrastructure:
 
 <div align="center">
 
-### 📬 Get in Touch
+### 📬 &nbsp;Let's Connect
 
-**Agency Work** → [evolnity.com](https://evolnity.com)  
-**JAAL Protocol** → Coming Soon  
-**Direct** → [manish@evolnity.com](mailto:manish@evolnity.com)  
-**Instagram** → [@manishgohel_mg](https://instagram.com/manishgohel_mg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mgohel3&style=for-the-badge&color=4285F4&labelColor=0d1b2a&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mgohel3?style=for-the-badge&color=34A853&labelColor=0d1b2a&logo=github&label=FOLLOWERS)
+| Platform | Link |
+|:---:|:---:|
+| 🌐 **Agency** | [evolnity.com](https://evolnity.com) |
+| 📸 **Instagram** | [@manishgohel_mg](https://instagram.com/manishgohel_mg) |
+| 📧 **Email** | [manish@evolnity.com](mailto:manish@evolnity.com) |
+| 📡 **JAAL Protocol** | Coming Soon |
 
 <br/>
 
-<!-- FOOTER WAVE — Gemini gradient reversed -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,2,3&section=footer&animation=fadeIn" width="100%" />
+<!-- ══ FOOTER WAVE — reversed Gemini gradient ══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,20,24&section=footer&animation=fadeIn" width="100%" />
 
 </div>
